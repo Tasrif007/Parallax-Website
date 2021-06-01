@@ -1,7 +1,7 @@
 # Parallax-Website
 Practice and Learn 
 
-**Screenshot**
+**Screenshot:**
 
 <img width="960" alt="2021-06-01_112912" src="https://user-images.githubusercontent.com/78270149/120271326-f38aaa00-c2cc-11eb-8ce1-e0f2b2e5af7c.png">
 
